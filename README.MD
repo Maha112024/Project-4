@@ -1,7 +1,7 @@
 # Project-4 | Machine Learning in Healthcare – Predicting Diabetes
 Group 1 Members: Maha Pentakota, Sapir Madar Coulson, Michael Villeda, Ana Garcia, Daniel Grimm 
 
-### Link to Streamlit Web URL to run predictive model: https://project-4-diabetes.streamlit.app/
+### Link to Streamlit Web URL to run predictive model: https://project-4-2026.streamlit.app/
 
 ### Tableau links to vizualization data:
 
@@ -100,3 +100,4 @@ We loaded several of the datasets we sourced into Tableau in order to generate v
 - Tableau (Data Visualization)
 - Tensorflow/Keras (Predictive Machine Learning Model Training)
 - Powerpoint (Presentation)
+
